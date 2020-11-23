@@ -5,7 +5,8 @@ import java.util.List;
 import com.jt.manage.pojo.User;
 
 public interface UserMapper {
-// ²âÊÔÒ»ÏÂgit
+// Â²Ã¢ÃŠÃ”Ã’Â»ÃÃ‚git
+//add new des	
 	List<User> findAll();
 	
 }
